@@ -1,0 +1,1 @@
+ALTER TABLE table_name MODIFY COLUMN budget bigint
