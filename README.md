@@ -5,3 +5,4 @@ _**This repo contain**_
 > 2. SQL interview question
 > 3. SQL BED_MANAGEMENT_PROJECT
 > 4. SQL leetcode solution
+> 5. mySQL connection using PYTHON
