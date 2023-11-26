@@ -25,6 +25,7 @@ Complete SQL Course by CampusX
 # Practice
 
 Leetcode - https://leetcode.com/problemset/database/
+          - https://leetcode.com/studyplan/top-sql-50/
 
 SQLZoo - https://sqlzoo.net/wiki/The_JOIN_operation
 
